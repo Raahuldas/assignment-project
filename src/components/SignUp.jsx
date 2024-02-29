@@ -4,8 +4,8 @@ function SignUp() {
   return (
 <div className="container my-3">
             <div className="row ">
-              <div className="col"><p className="fs-2 px-5">Sign up and get exclusive special deals</p></div>
-              <div className="col">
+              <div className="col-12 col-sm-12 col-md-6"><p className="fs-2 px-5">Sign up and get exclusive special deals</p></div>
+              <div className="col-12 col-sm-12 col-md-6">
                 <div className="input-group mt-3">
                   <input
                     type="text"
