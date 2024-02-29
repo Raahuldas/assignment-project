@@ -1,0 +1,27 @@
+.main-container{
+    width: 75%;
+}
+
+@media (max-width:1000px) {
+    .main-container{
+        width: 100%;
+    }
+}
+
+.heading-2{
+    font-size: medium;
+}
+
+.item-badge{
+    translate:-10% -50%
+}
+
+.stars{
+    font-size: 0.8rem;
+}
+
+.index{
+    position: absolute;
+    top: 40px;
+    left: -15px;
+}
